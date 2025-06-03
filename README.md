@@ -64,11 +64,11 @@ Current members / sponsors of the netdev foundation are (in alphabetical order):
  - Red Hat
 
 The TSC members are:
+ - Simon Horman (chair)
  - Andrew Lunn
  - David S. Miller
  - Eric Dumazet
  - Jakub Kicinski
  - Johannes Berg
  - Kuniyuki Iwashima
- - Simon Horman
  - Willem de Bruijn
