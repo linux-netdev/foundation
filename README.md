@@ -71,4 +71,5 @@ The TSC members are:
  - Jakub Kicinski
  - Johannes Berg
  - Kuniyuki Iwashima
+ - Paolo Abeni
  - Willem de Bruijn
