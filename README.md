@@ -28,7 +28,7 @@ should contain the [Foundation] subject prefix.
 ## Process
 
 The charter stipulates that the foundation is controlled by a Technical Steering
-Committee (TSC) and a Member Board (MB). TSC is the technical
+Committee (TSC) and a Governing Board (GB). TSC is the technical
 expertise: proposes projects to the board and is also responsible
 for execution. Board does governance (like a corporate board):
 approve spending and ensure we follow the LF rules, e.g. on reporting
@@ -36,22 +36,22 @@ and elections.
 
 A lifetime of a project should follow these approximate steps:
 
- 1. MB, TSC and community members pitch projects and add them the GitHub issue tracker.
+ 1. GB, TSC and community members pitch projects and add them the GitHub issue tracker.
  2. Every 4-6 months TSC votes / ranks the project based on how much support they have
-	- MB-supported projects should be granted higher priority if TSC agrees that
+	- GB-supported projects should be granted higher priority if TSC agrees that
 	they are objectively beneficial to the community.
  3. TSC members volunteer to shepherd the projects, one or more members per project
 	- members work on fleshing out the project proposals offline and
 	bring the to TSC for review;
-	- shepherds should work with relevant MB and community members.
- 4. Projects return to TSC for approval, approved projects are shared with the MB.
- 5. MB approves the project and returns it to TSC for execution.
- 6. TSC shepherd(s) work with MB representative(s) and LF to get pricing
+	- shepherds should work with relevant GB and community members.
+ 4. Projects return to TSC for approval, approved projects are shared with the GB.
+ 5. GB approves the project and returns it to TSC for execution.
+ 6. TSC shepherd(s) work with GB representative(s) and LF to get pricing
 	quotes (as necessary), set up contracts, drive project to completion
 	- if there are multiple potential suppliers TSC should be consulted
 	on the choice.
  7. TSC shepherds periodically report progress to the TSC (monthly meeting),
-	the MB, and the community.
+	the GB, and the community.
 
 ## Foundation members
 
