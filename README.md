@@ -59,6 +59,7 @@ Current members / sponsors of the netdev foundation are (in alphabetical order):
  - Alibaba
  - Fastly
  - Google
+ - HAProxy
  - Jump Trading
  - Meta
  - Red Hat
